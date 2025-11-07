@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Chavda Pratham</h1>
 <h3 align="center">I am passionate about Cybersecurity, Database, Android Development and Frontend Development </h3>
 <image align="right" alt="coding" Width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-- 👨‍💻 All of my projects are available at = https://github.com/Pratham027
+👨‍💻 All of my projects are available at - https://github.com/Pratham027
 
-- 📫 How to reach me **pratham27022005@gmail.com**
+📫 How to reach me **pratham27022005@gmail.com**
 
-- 📄 Know about my experiences [Summer-2024 Flutter developer intern at Aarya SotEx LLP.]
+📄 Know about my experiences [Summer-2024 Flutter developer intern at Aarya SotEx LLP.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
