@@ -14,7 +14,7 @@
 <a href="https://twitter.com/pratham050227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham050227" height="30" width="40" /></a>
 <a href="https://fb.com/pratham chavda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratham chavda" height="30" width="40" /></a>
 <a href="https://instagram.com/pratham_5227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_5227" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theunknowngod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theunknowngod" height="30" width="40" /></a>
+<a href="https://youtube.com/@chavda_pratham?si=YrHts8WdqQngjBll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theunknowngod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
