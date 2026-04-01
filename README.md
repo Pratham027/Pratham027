@@ -1,11 +1,11 @@
 ![logo](https://github.com/Pratham027/Pratham027/blob/main/LinkDin%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Chavda Pratham</h1>
-<h3 align="center">I am passionate about Cybersecurity, Data Science, Android Development, UIUX Design and Full-stack Development </h3>
+<h3 align="center">Ask me about Cybersecurity, Data Science, Android Development, UIUX Design and Full-stack Development </h3>
 👨‍💻 All of my projects are available at - https://github.com/Pratham027
 
 📫 How to reach me **pratham27022005@gmail.com**
 
-📄 Know about my experiences [Summer-2024 Flutter developer intern at Aarya SotEx LLP.]
+📄 Know about my experiences [https://www.linkedin.com/in/pratham-chavda-119536263/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPQhJaesXS66enPkUVJmKWg%3D%3D]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
