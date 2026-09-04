@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Pratham%20Chavda&fontSize=60&fontColor=ffffff&color=0:0f0c29,40:302b63,100:24243e&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%26%20Design%20Student%20%7C%20Full%20Stack%20%26%20Flutter%20Developer&descSize=18&descAlignY=65&descColor=ccccff" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pratham027/Pratham027/main/LinkedIn.jpg" width="100%" alt="Pratham Chavda" />
 </p>
 
 <p align="center">
