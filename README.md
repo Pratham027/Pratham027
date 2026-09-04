@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratham027/Pratham027/main/LinkedIn.jpg" width="100%" alt="Pratham Chavda" />
+  <img src="https://raw.githubusercontent.com/Pratham027/Pratham027/main/LinkedIn.jpg" width="100%" alt="Pratham Chavda"/>
 </p>
 
 <p align="center">
