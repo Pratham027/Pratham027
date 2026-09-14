@@ -199,8 +199,8 @@ const pratham = {
 ## 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Python_Programming-Infosys_Springboard-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
-  <img src="https://img.shields.io/badge/Intro_to_IoT-NPTEL_%7C_IIT_Kharagpur-0ea5e9?style=for-the-badge&labelColor=1e1b4b" />
+  Python Programming - Infosys Springboard<br>
+  Intro to IoT - NPTEL | IIT Kharagpur
 </p>
 
 ---
