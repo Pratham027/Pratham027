@@ -186,13 +186,18 @@ const pratham = {
 
 ```
 🏫 B.Tech — Computer Science and Design
-   G.H. Patel College of Engineering and Technology (GCET)   2024 – 2027
+   G.H. Patel College of Engineering and Technology (GCET)            2024 – 2027
    CGPA: 7.48 / 10
 
 🏫 Diploma — Computer Science and Engineering
-   ITM SLS Baroda University (ITMBU)                          2021 – 2024
+   ITM SLS Baroda University (ITMBU)                                  2021 – 2024
    CGPA: 7.24 / 10
+
+🏫 SSC-(10th) 
+   Gujarat Secondary and Higher Secondary Education Board (GSEB)      2020 – 2021
+   Percentile: 85
 ```
+
 
 ---
 
