@@ -254,7 +254,7 @@ const pratham = {
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/pratham-chavda">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Chavda-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/www.linkedin.com/in/pratham-chavda-119536263?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:pratham27022005@gmail.com">
