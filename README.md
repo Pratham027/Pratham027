@@ -253,9 +253,9 @@ const pratham = {
     <img src="https://img.shields.io/badge/GitHub-Pratham027-181717?style=for-the-badge&logo=github&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/pratham-chavda-119536263">
-    <img src="https://img.shields.io/badge/linkedin - pratham chavda?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
-  </a>
+ <a href="https://www.linkedin.com/in/pratham-chavda-119536263?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/linkedin - pratham chavda?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
+</a>
   &nbsp;
   <a href="mailto:pratham27022005@gmail.com">
     <img src="https://img.shields.io/badge/Email-pratham27022005%40gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=0d1117" />
