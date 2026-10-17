@@ -253,8 +253,8 @@ const pratham = {
     <img src="https://img.shields.io/badge/GitHub-Pratham027-181717?style=for-the-badge&logo=github&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/pratham-chavda">
-    <img src="https://img.shields.io/badge/www.linkedin.com/in/pratham-chavda-119536263?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
+  <a href="www.linkedin.com/in/pratham-chavda-119536263">
+    <img src="https://img.shields.io/badge/linkedin - pratham chavda?style=for-the-badge&logo=linkedin&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:pratham27022005@gmail.com">
